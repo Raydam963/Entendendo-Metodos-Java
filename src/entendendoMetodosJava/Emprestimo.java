@@ -1,4 +1,4 @@
-package dio;
+package entendendoMetodosJava;
 
 public class Emprestimo {
     public static int getDuasPartcelas() {
